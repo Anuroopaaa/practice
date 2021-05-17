@@ -1,0 +1,71 @@
+body{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+h1{
+    background-color: burlywood;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 0;
+    height: 50px;
+    padding: 10px;
+}
+h3{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.website{
+    text-align: center;
+}
+.parts{
+    text-align: center;
+}
+p,li{
+    color: brown;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.one{
+    margin-left: .9%;
+    width: 50%;
+    margin-right: 0;
+}
+.two{
+    float: left;
+    width: 50%;
+    margin-left: 50%;
+    margin-top: -136px;
+    padding-bottom: 50px;
+}
+.three{
+    margin-left: .9%;
+    width: 50%;
+    padding-right: 20px;
+    padding-top: 85px;
+}
+.right{
+    width: 50%;
+    height: 100px;
+    margin-left: 50%;
+    margin-top: -200px;
+    padding-top: 75px;
+    padding-bottom: 178px;
+    padding-left: 130px;
+}
+.four{
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+}
+.five{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    margin-right: 4%;
+    padding-top: 100px;
+    float: right;
+}
